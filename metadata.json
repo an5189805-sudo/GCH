@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gondal Clothes House",
+  "description": "A modern, professional e-commerce storefront for Gondal Clothes House, featuring dynamic product sections and advanced search capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
